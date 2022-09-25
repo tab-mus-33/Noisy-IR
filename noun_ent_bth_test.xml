@@ -1,0 +1,303 @@
+<topics set="testing">
+<topic number="9">
+<num>9</num>
+<query>the conversation call transcript donald trump november ukrainian white news house phone items president 2019 people</query>
+<type>topical</type>
+<description>The White House released a rough transcript of President Donald Trump&#8217;s phone call with the Ukrainian President in November 2019.  What were people saying about the conversation in the call?  News items about the call are relevant.</description>
+</topic>
+<topic number="10">
+<num>10</num>
+<query>effect causes hundreds reputation max crash boeing crashes company airline news airliner speculation people 2019 737 passenger</query>
+<type>topical</type>
+<description>The Boeing 737 MAX passenger airliner was grounded worldwide after hundreds of people died in two crashes in 2019.  What were people saying about the airline and the company?  What were speculated causes of the crash?  What did people think the effect would be on Boeing&#8217;s reputation?  News is relevant, but so is speculation.</description>
+</topic>
+<topic number="11">
+<num>11</num>
+<query>to cook how information juicier turkey podcasts</query>
+<type>topical</type>
+<description>I&#8217;m looking for podcasts that talk about how to cook turkey well, in particular podcasts that have some information on how I can make my turkey juicier.</description>
+</topic>
+<topic number="12">
+<num>12</num>
+<query>imran achievements pakistan star 22nd khan career minister people prime cricket</query>
+<type>topical</type>
+<description>Imran Khan is the 22nd Prime Minister of Pakistan, and had a career as an international cricket star.  What have people said about his career and achievements?</description>
+</topic>
+<topic number="13">
+<num>13</num>
+<query>recovery drug addiction stories alcohol people help</query>
+<type>topical</type>
+<description>I&#8217;m interested in hearing personal stories of people that have recovered from drug and alcohol addiction.  How did they find help?  What did they do that helped them?  Who did they reach out to? </description>
+</topic>
+<topic number="14">
+<num>14</num>
+<query>podcast experiences death episodes stories near people science</query>
+<type>topical</type>
+<description>I wonder if people have shared near-death experiences in podcast episodes.  I would like to find and listen to some stories.  I am not interested in the science of near-death experiences.</description>
+</topic>
+<topic number="15">
+<num>15</num>
+<query>sort space podcast voice tricks software equipment tips kind about microphone podcasts</query>
+<type>topical</type>
+<description>I would like to start a podcast.  What equipment do I need?  What kind of microphone?  What sort of space should I use to record?  What software is most helpful?  What are some tips and tricks for using my voice well?  I&#8217;d like to hear general tips about recording and producing podcasts.</description>
+</topic>
+<topic number="16">
+<num>16</num>
+<query>australia amazon causes california number information reports wildfires news speculation prevention of people and rumor</query>
+<type>topical</type>
+<description>2019 saw a large number of wildfires, in Australia, California, and the Amazon.  What were people saying about them?  What caused them?  How could they be prevented?  I am interested in news reports but also speculation, rumor, and unverified information.</description>
+</topic>
+<topic number="17">
+<num>17</num>
+<query>advantage half breaks meetings ideas gaps between hour mind time things</query>
+<type>topical</type>
+<description>I am looking for some ideas for things to do during breaks between meetings.  I would like to take advantage of my short (half hour or less) gaps between meetings to refocus my mind or relax.</description>
+</topic>
+<topic number="18">
+<num>18</num>
+<query>engineering women initiatives stories mathematics news reports technology prevalence stem movements science in</query>
+<type>topical</type>
+<description>I&#8217;d like to hear personal stories from women in science, technology, engineering, and mathematics (STEM).  I am not interested in initiatives to increase women in STEM, or movements surrounding women in STEM, or news reports about the prevalence of women in STEM.</description>
+</topic>
+<topic number="19">
+<num>19</num>
+<query>intelligence ai example tech reports uses news speculation healthcare leaders outcomes in</query>
+<type>topical</type>
+<description>How can artificial intelligence be used to improve healthcare outcomes?  What are some example uses of AI in healthcare?  News reports are relevant, as is speculation from thought leaders in tech and healthcare.</description>
+</topic>
+<topic number="20">
+<num>20</num>
+<query>effect cost individuals quotes experiences costs increases stories reports lives of childcare people</query>
+<type>topical</type>
+<description>I&#8217;m looking for personal stories from people that have had to deal with increasing childcare costs.  How did they manage?  What was the effect on their lives?  Reports about average increases in childcare costs are not relevant unless they include quotes from individuals about their experiences.</description>
+</topic>
+<topic number="21">
+<num>21</num>
+<query>thoughts juneteenth individuals us feelings explanations people</query>
+<type>topical</type>
+<description>What does Juneteenth mean to people in the US? How do individuals feel about it, celebrate it, experience it? What are their thoughts and feelings about Juneteenth? Factual explanations of what Juneteenth is are not relevant.</description>
+</topic>
+<topic number="22">
+<num>22</num>
+<query>show reality chernobyl events people 2019 hbo series discussions podcasts</query>
+<type>topical</type>
+<description>The series Chernobyl aired on HBO in 2019.  What were people saying about it in podcasts?  I am especially interested in discussions about how events depicted in the show differed from reality.</description>
+</topic>
+<topic number="23">
+<num>23</num>
+<query>world dame 2019 cathedral cleaning information episodes fire recollections notre reconstruction people effort paris way podcasts</query>
+<type>topical</type>
+<description>The 2019 fire at Notre Dame cathedral in Paris personally affected many people around the world.  I&#8217;m looking for episodes of podcasts with people talking about how it affected them, how they felt about it, their personal recollections of visiting Notre Dame or otherwise experiencing Notre Dame in some way.  Factual information about the fire or about the cleaning and reconstruction effort are not relevant.</description>
+</topic>
+<topic number="24">
+<num>24</num>
+<query>politics economics causes france yellow stories news vest topics people 2019 protests paris</query>
+<type>topical</type>
+<description>What do people think were the causes of the yellow vest protests in Paris in 2019?  What topics in politics and economics did people touch on when they talked about the protests?  News stories about the protests are not relevant.</description>
+</topic>
+<topic number="25">
+<num>25</num>
+<query>black individuals context matter phrase news lives people stores protests reflections</query>
+<type>topical</type>
+<description>What do people mean when they say &#8220;black lives matter&#8221;?  I am interested in personal reflections that give context to the phrase &#8220;black lives matter&#8221; and why it is important to individuals.  News stores about Black Lives Matter protests are relevant as well.</description>
+</topic>
+<topic number="26">
+<num>26</num>
+<query>effect scandal investigation podcast information episodes woodward bob watergate role</query>
+<type>topical</type>
+<description>I am looking for podcast episodes about Bob Woodward&#8217;s role in the Watergate scandal.  What did he know?  Where did he get his information from?  What effect did it have on the investigation?</description>
+</topic>
+<topic number="27">
+<num>27</num>
+<query>civil protestors rights us individuals foundations roots movement experiences washington stories march motivations protest 1960s protests</query>
+<type>topical</type>
+<description>I&#8217;d like to hear stories about protests and protestors in the Civil Rights movement in the US in the 1960s.  Stories about individual experiences with protests; individuals&#8217; motivations for protesting; how protests like the March on Washington came to be; the roots and foundations of the movement; etc; are all relevant.</description>
+</topic>
+<topic number="28">
+<num>28</num>
+<query>experience peoples dieting drawbacks benefits yo yo-yo dangers</query>
+<type>topical</type>
+<description>What is yo-yo dieting?  What are the benefits of it?  What are the drawbacks?  Does it have any dangers?  Peoples&#8217; personal experience with yo-yo dieting is especially sought.</description>
+</topic>
+<topic number="29">
+<num>29</num>
+<query>experiences peoples anecdotes canada racism research in</query>
+<type>topical</type>
+<description>How does racism appear in Canada?  I&#8217;m looking for personal anecdotes about peoples&#8217; experiences with racism in Canada.  Research such as sociological research is relevant if reported on.</description>
+</topic>
+<topic number="30">
+<num>30</num>
+<query>podcast conversations experiences episodes expectations motherhood stories panel mothers discussions</query>
+<type>topical</type>
+<description>I want to hear podcast episodes with new mothers relating and discussing their expectations and experiences for motherhood.  Stories, conversations, panel discussions are all relevant.  I&#8217;m not very interested in hearing from experienced mothers.</description>
+</topic>
+<topic number="31">
+<num>31</num>
+<query>horoscope sign store periods cancer future time reading horoscopes zodiac</query>
+<type>topical</type>
+<description>I&#8217;d like to hear horoscopes for my zodiac sign of Cancer.  What&#8217;s in store for me in the future?  Horoscopes that are for specific non-current time periods are relevant.</description>
+</topic>
+<topic number="32">
+<num>32</num>
+<query>nfl 22 ny postseason football outcome washington giants game december 2019 people</query>
+<type>topical</type>
+<description>I want to hear about the NY-Washington NFL football game played on December 22, 2019.  Why was the game important?  What were people saying leading up to it?  What was the outcome?  How did it affect the NFL postseason?</description>
+</topic>
+<topic number="33">
+<num>33</num>
+<query>effect hvac industry environmentalism technology people sustainability</query>
+<type>topical</type>
+<description>What is the HVAC industry doing to promote sustainability and &#8220;green&#8221; technology?  Has it been effective?  What is the effect on people working in the industry?  </description>
+</topic>
+<topic number="34">
+<num>34</num>
+<query>individuals conversations history chat information stories things generalities people halloween and</query>
+<type>topical</type>
+<description>I love Halloween and I want to hear stories and conversations about things people have done to celebrate it.  I am not looking for information about the history of Halloween or generalities about how it is celebrated, I want specific stories from individuals.</description>
+</topic>
+<topic number="35">
+<num>35</num>
+<query>life living free drawbacks benefits advice debt</query>
+<type>topical</type>
+<description>What can I do to achieve a debt-free life?  What are the benefits of being free of debt?  Are there any drawbacks?  I want detailed advice for living free of debt.</description>
+</topic>
+<topic number="36">
+<num>36</num>
+<query>setbacks cryptocurrency cryptocurrencies risks drawbacks people benefits investment</query>
+<type>topical</type>
+<description>What are the risks of investing in cryptocurrencies?  Many people are talking about cryptocurrency as an investment and it seems to have many benefits.  Are there any drawbacks?  What are they?  What setbacks have people suffered when investing in cryptocurrencies?</description>
+</topic>
+<topic number="37">
+<num>37</num>
+<query>world living travel approach slow sustainability</query>
+<type>topical</type>
+<description>What is &#8220;slow travel&#8221;?  I heard about this approach to traveling the world recently when reading about sustainable living, and I&#8217;d like to hear more about it.  What does it have to do with sustainability?</description>
+</topic>
+<topic number="38">
+<num>38</num>
+<query>outreach programs initiatives companies workplace efforts diversity discussion things education outcomes</query>
+<type>topical</type>
+<description>What are things companies are doing and could do to promote diversity in the workplace?  Things like workplace programs, initiatives, education, and outreach are relevant.  Discussion about the outcomes of these efforts are relevant as well.  </description>
+</topic>
+<topic number="39">
+<num>39</num>
+<query>strategy kinds companies media social things marketing suggestions people tips</query>
+<type>topical</type>
+<description>I&#8217;m looking for tips and suggestions for creating a social media marketing strategy.  What kinds of things do I need to think about?  How can I reach the most people online?  Are there companies that can help?</description>
+</topic>
+<topic number="40">
+<num>40</num>
+<query>habitat discussions loss pollinators reports news dying bees</query>
+<type>topical</type>
+<description>There have been numerous news reports of bees and other pollinators dying. I want to learn what I can do personally to help bees and other pollinators. General discussions about habitat loss are not relevant.</description>
+</topic>
+<topic number="41">
+<num>41</num>
+<query>ingredients pros foods difference organisms us gmo cons labeling european food approaches people</query>
+<type>topical</type>
+<description>
+Some people say we should avoid foods with genetically-modified organisms as ingredients. I would like to learn about GMO food labeling. What are people saying about the pros and cons? What&#8217;s the difference between the European and US approaches to GMO food labeling?  </description>
+</topic>
+<topic number="42">
+<num>42</num>
+<query>fyre 2019 repercussions documentaries terms bahamas person festival 2017 music accommodation infrastructure organisers media channels artists topic attendees number accounts people interviews</query>
+<type>topical</type>
+<description>Fyre Festival was a failed music festival which was planned to happen in 2017 on Bahamas. The festival was marketed through a number of social media channels, but the organisers did not deliver what they had promised the attendees in terms of accommodation and other infrastructure, and many of the billed artists never showed. The festival was the topic for several documentaries in 2019. I want to hear first person accounts of the festival, interviews with people associated with the festival, and about the legal repercussions.</description>
+</topic>
+<topic number="43">
+<num>43</num>
+<query>power government sentiment hong 2019 chinese students council forefront aspects kong place universities early population displeasure protests</query>
+<type>topical</type>
+<description>Since early 2019, more or less continuous protests have taken place in Hong Kong, to mark popular displeasure with various aspects of power shifting from the local governing council to the Chinese central government. Students from the many Hong Kong universities have been at the forefront of the protests. I want to know more about who is protesting along with the students and what the popular sentiment in the general Hong Kong population is.</description>
+</topic>
+<topic number="44">
+<num>44</num>
+<query>jack podcast special comedy radio benny thanksgiving</query>
+<type>refinding</type>
+<description>I remember hearing on the radio a comedy special recorded for Thanksgiving by Jack Benny.  Can I find it as a podcast?</description>
+</topic>
+<topic number="45">
+<num>45</num>
+<query>football podcast drafting ends strategies tight</query>
+<type>refinding</type>
+<description>I heard a podcast about strategies for drafting tight ends in football.  I&#8217;d like to find it again.</description>
+</topic>
+<topic number="46">
+<num>46</num>
+<query>home podcast quilt company mom missouri</query>
+<type>refinding</type>
+<description>I listened to a podcast about a stay-at-home mom in Missouri who opened a quilt company and I would like to hear it again.</description>
+</topic>
+<topic number="47">
+<num>47</num>
+<query>interview fi mars sci-fi title name book books author</query>
+<type>refinding</type>
+<description>I heard this interview with a sci-fi author who wrote a book or books with &#8220;Mars&#8221; in the title, but I can&#8217;t recall his name.  I&#8217;d like to find it again.</description>
+</topic>
+<topic number="48">
+<num>48</num>
+<query>interview podcast score movie movies spike process scores lee</query>
+<type>refinding</type>
+<description>Spike Lee movies have well curated scores.  I heard a podcast interview where he talked about one of his movies and the process of curating the score.  What was it?</description>
+</topic>
+<topic number="49">
+<num>49</num>
+<query>smell thrift episode store stores science</query>
+<type>refinding</type>
+<description>I want to find an episode I heard about the science of the distinctive smell of thrift stores.</description>
+</topic>
+<topic number="50">
+<num>50</num>
+<query>interview hurricanes guard coast guam coxswain</query>
+<type>refinding</type>
+<description>I heard an interview with a Coast Guard coxswain who had survived hurricanes in Guam.  I&#8217;d like to find it again.</description>
+</topic>
+<topic number="51">
+<num>51</num>
+<query>makeover podcast us veteran eye queer</query>
+<type>refinding</type>
+<description>I heard a podcast featuring a US military veteran who went on Queer Eye for a makeover and I would like to listen to it again.</description>
+</topic>
+<topic number="52">
+<num>52</num>
+<query>interview dr. us virus article place fauci covid-19</query>
+<type>known item</type>
+<description>An article about COVID-19 referenced an interview with Dr. Fauci that took place when the virus had not yet reached the US.  I would like to listen to it.</description>
+</topic>
+<topic number="53">
+<num>53</num>
+<query>podcast episode for books entrepreneurs recommended</query>
+<type>known item</type>
+<description>I was told about a podcast that recommended good books for entrepreneurs.  I&#8217;m trying to find that episode.</description>
+</topic>
+<topic number="54">
+<num>54</num>
+<query>podcast college show admissions bias article name in</query>
+<type>known item</type>
+<description>I read an article that mentioned a podcast about bias in college admissions.  I would like to listen to it but I don&#8217;t know the name of the show.</description>
+</topic>
+<topic number="55">
+<num>55</num>
+<query>x malcolm podcast biography</query>
+<type>known item</type>
+<description>I heard about a podcast biography of Malcolm X and I would like to listen to it.</description>
+</topic>
+<topic number="56">
+<num>56</num>
+<query>interview podcast doctor gaslighting twitter reference systems</query>
+<type>known item</type>
+<description>On Twitter I saw someone reference a podcast interview with a doctor about gaslighting within organizational systems and I would like to hear it.</description>
+</topic>
+<topic number="57">
+<num>57</num>
+<query>podcast nefertiti</query>
+<type>known item</type>
+<description>I want to hear a podcast I know about that is about Nefertiti.</description>
+</topic>
+<topic number="58">
+<num>58</num>
+<query>interview bluegrass magazine podcast sam bush</query>
+<type>known item</type>
+<description>A bluegrass magazine I read mentioned a podcast interview with Sam Bush.  I&#8217;d like to hear it.</description>
+</topic>
+</topics>
