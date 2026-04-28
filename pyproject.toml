@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "matsci-ir"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "python-terrier>=0.10.0",
+    "torch>=2.6.0",
+    "transformers>=4.35.0",
+    "requests>=2.31.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "tqdm>=4.66.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "anthropic>=0.20.0",
+    "mp-api>=0.41.0",
+    "pubchempy>=1.0.4",
+    "arxiv>=2.1.0",
+    "lxml>=4.9.0",
+    "python-dotenv>=1.0.0",
+]
+
+# PyTorch: pull CUDA 12.6 wheels (compatible with driver 580 / CUDA 13.0)
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cu126" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu126"
+url = "https://download.pytorch.org/whl/cu126"
+explicit = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["matsci*"]

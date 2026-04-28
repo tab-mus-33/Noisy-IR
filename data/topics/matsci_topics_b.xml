@@ -1,0 +1,152 @@
+<topics>
+  <top>
+    <num>1</num>
+    <title>Al2O3 thermal conductivity high temperature</title>
+    <description>Find papers measuring or modelling the thermal conductivity of corundum at elevated temperatures.</description>
+  </top>
+  <top>
+    <num>2</num>
+    <title>TiO2 photocatalysis water splitting</title>
+    <description>Find papers on the photocatalytic activity of titania for solar-driven water splitting.</description>
+  </top>
+  <top>
+    <num>3</num>
+    <title>SiO2 glass viscosity thermal</title>
+    <description>Find papers on the viscosity or thermal properties of amorphous silica glass.</description>
+  </top>
+  <top>
+    <num>4</num>
+    <title>Fe2O3 photoelectrochemical water oxidation</title>
+    <description>Find papers on hematite as a photoanode for photoelectrochemical water oxidation.</description>
+  </top>
+  <top>
+    <num>5</num>
+    <title>Fe3O4 nanoparticles magnetic hyperthermia</title>
+    <description>Find papers on magnetite nanoparticles for magnetic hyperthermia cancer treatment.</description>
+  </top>
+  <top>
+    <num>6</num>
+    <title>ZnO piezoelectric nanowire nanogenerator</title>
+    <description>Find papers on piezoelectric nanowires or nanogenerators based on zinc oxide.</description>
+  </top>
+  <top>
+    <num>7</num>
+    <title>SnO2 gas sensor nitrogen dioxide</title>
+    <description>Find papers on tin oxide resistive sensors for NO2 or other gas detection.</description>
+  </top>
+  <top>
+    <num>8</num>
+    <title>CeO2 oxygen storage capacity catalyst</title>
+    <description>Find papers on ceria as an oxygen storage material in three-way catalysts.</description>
+  </top>
+  <top>
+    <num>9</num>
+    <title>ZrO2 thermal barrier coating turbine</title>
+    <description>Find papers on yttria-stabilised zirconia thermal barrier coatings for turbine blades.</description>
+  </top>
+  <top>
+    <num>10</num>
+    <title>MgO sintering refractory</title>
+    <description>Find papers on the sintering behaviour or refractory applications of periclase.</description>
+  </top>
+  <top>
+    <num>11</num>
+    <title>BaTiO3 piezoelectric energy harvesting</title>
+    <description>Find papers on piezoelectric energy harvesting devices using barium titanate.</description>
+  </top>
+  <top>
+    <num>12</num>
+    <title>SrTiO3 dielectric thin film</title>
+    <description>Find papers on the dielectric properties of strontium titanate thin films.</description>
+  </top>
+  <top>
+    <num>13</num>
+    <title>BiFeO3 multiferroic room temperature</title>
+    <description>Find papers on multiferroic properties of bismuth ferrite at room temperature.</description>
+  </top>
+  <top>
+    <num>14</num>
+    <title>PZT actuator MEMS</title>
+    <description>Find papers on PZT thin films for MEMS actuators or piezoelectric sensors.</description>
+  </top>
+  <top>
+    <num>15</num>
+    <title>La2CuO4 antiferromagnetic parent compound</title>
+    <description>Find papers on the antiferromagnetic order or doping of the cuprate parent compound.</description>
+  </top>
+  <top>
+    <num>16</num>
+    <title>YBa2Cu3O7 flux pinning critical current density</title>
+    <description>Find papers on flux pinning mechanisms and critical current enhancement in YBCO.</description>
+  </top>
+  <top>
+    <num>17</num>
+    <title>Bi2Sr2CaCu2O8 Josephson junction intrinsic</title>
+    <description>Find papers on intrinsic Josephson junctions in Bi-2212 high-temperature superconductors.</description>
+  </top>
+  <top>
+    <num>18</num>
+    <title>h-BN dielectric substrate graphene</title>
+    <description>Find papers using hexagonal boron nitride as a dielectric substrate for graphene devices.</description>
+  </top>
+  <top>
+    <num>19</num>
+    <title>GaN high electron mobility transistor power</title>
+    <description>Find papers on GaN HEMTs for high-power or high-frequency electronic applications.</description>
+  </top>
+  <top>
+    <num>20</num>
+    <title>Si3N4 fracture toughness structural ceramic</title>
+    <description>Find papers on the fracture toughness or mechanical reliability of silicon nitride ceramics.</description>
+  </top>
+  <top>
+    <num>21</num>
+    <title>SiC wide bandgap power semiconductor</title>
+    <description>Find papers on silicon carbide as a wide-bandgap semiconductor for power electronics.</description>
+  </top>
+  <top>
+    <num>22</num>
+    <title>WC hardness wear-resistant coating</title>
+    <description>Find papers on the hardness or tribological performance of tungsten carbide coatings.</description>
+  </top>
+  <top>
+    <num>23</num>
+    <title>single-layer graphene electron mobility charge transport</title>
+    <description>Find papers on the electronic mobility or charge transport in monolayer graphene.</description>
+  </top>
+  <top>
+    <num>24</num>
+    <title>MoS2 field-effect transistor two-dimensional</title>
+    <description>Find papers on MoS2 as a two-dimensional semiconductor in field-effect transistors.</description>
+  </top>
+  <top>
+    <num>25</num>
+    <title>WS2 photoluminescence valley polarization</title>
+    <description>Find papers on photoluminescence or valley polarisation in monolayer WS2.</description>
+  </top>
+  <top>
+    <num>26</num>
+    <title>LFP cathode cycle stability capacity</title>
+    <description>Find papers on the cycle stability or capacity retention of LFP cathode materials.</description>
+  </top>
+  <top>
+    <num>27</num>
+    <title>lithium nickel manganese cobalt oxide high-voltage cathode lithium-ion battery</title>
+    <description>Find papers on high-voltage performance or degradation of NMC cathode materials.</description>
+  </top>
+  <top>
+    <num>28</num>
+    <title>PbS quantum dot infrared photodetector</title>
+    <description>Find papers on lead sulfide quantum dots for infrared photodetection.</description>
+  </top>
+  <top>
+    <num>29</num>
+    <title>CdS thin film solar cell heterojunction</title>
+    <description>Find papers on CdS as a buffer layer in thin-film solar cell heterojunctions.</description>
+  </top>
+  <top>
+    <num>30</num>
+    <title>ITO transparent electrode thin film</title>
+    <description>Find papers on ITO as a transparent conducting electrode in optoelectronic devices.</description>
+  </top>
+</topics>
