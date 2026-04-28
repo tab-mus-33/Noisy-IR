@@ -90,13 +90,13 @@ def _fetch_page(category: str, start: int) -> list[dict]:
         if resp.status_code == 200:
             return _parse_feed(resp.text)
 
-        if resp.status_code == 429:
-            print(f"\n  429 rate limit at start={start}. Waiting {backoff}s...")
+        if resp.status_code in (429, 500, 502, 503):
+            print(f"\n  HTTP {resp.status_code} at start={start}. Waiting {backoff}s...")
             time.sleep(backoff)
             backoff = min(backoff * 2, BACKOFF_MAX)
             continue
 
-        # Other HTTP error — log and skip this page
+        # Unrecoverable client error — log and skip this page
         print(f"\n  HTTP {resp.status_code} at start={start}. Skipping page.")
         return []
 
